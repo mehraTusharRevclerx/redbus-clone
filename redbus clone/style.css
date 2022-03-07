@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #d84f57;
+
+}
+.redbus-color {
+    background-color: #d84f57;
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: #fff;
+}
+.navbar-nav .badge{
+    position: relative;
+    bottom: 40%;
+}
+
+.bgimage{
+    background: center / cover no-repeat url("images/bgimage.png");
+    height: 70vh;
+    position: relative;
+    bottom: 4rem;
+    z-index: -1;
+}
+
+.fromToInput{
+    width: 58%;
+    position: absolute;
+    top: 34%;
+    left: 21%;
+}
+
+.showAutoCalendar.newDefaultTheme-dateIcon.icon-liteMode {    
+
+    position : absolute !important;   
+    
+    }
+    
+
+.btn{
+    background-color: #d74f57;
+}    
